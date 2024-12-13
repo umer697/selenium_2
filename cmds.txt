@@ -1,15 +1,9 @@
-git init
-git add .
-git commit -m "first commit"
-git add .
-git branch -M master
-git remote add origin https://github.com/umer697/selenium_1.git
-git push -u origin master
-
-1st you have pushed code then only do following 2 cmds
-git add .
-git commit -m "first commit"
-git push
-
+lskdjfa
+askldfjas
+faklsdfja
+sdfaklsdfj
+aksldjf
+aksldjffaskjdf
+askldfjas
 
 
