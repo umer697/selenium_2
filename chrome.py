@@ -8,6 +8,6 @@ service = Service('C:/Users/Admin/Desktop/jupyter/chromedriver.exe')
 driver = webdriver.Chrome(service=service)
 
 # Open a website
-driver.get("https://www.google.com")
+driver.get("https://")
 
 
